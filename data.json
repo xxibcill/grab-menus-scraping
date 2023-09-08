@@ -1,0 +1,1202 @@
+[
+  {
+    "title": "แร๊พฟิชทาโก้อโวคาโด",
+    "description": "Fish Taco Avocado Wrap New Wrap เนื้อเน้นๆ ผักนัวๆ",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20230519095638010379/detail/e600439e56bf4b62a01acd5987790ba4_1684490176517306990.webp",
+    "price": "276"
+  },
+  {
+    "title": "แร๊พชิกเก้นศรีราชา",
+    "description": "SRIRACHA Chicken Wrap New Wrap เนื้อเน้นๆ ผักนัวๆ",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20230519095504016572/detail/a43024b9a4fe4e39a5166e92c135aa85_1684490086721311719.webp",
+    "price": "229"
+  },
+  {
+    "title": "แร๊พหมูย่างพอนซึโซบะ",
+    "description": "Grilled Pork Ponsu Soba Wrap New Wrap เนื้อเน้นๆ ผักนัวๆ",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20230519095135011308/detail/a88247db76b7470e970cf305ee808f82_1684489872421852416.webp",
+    "price": "288"
+  },
+  {
+    "title": "สะสมแต้มบัตรสมาชิก Ohkajhu",
+    "description": "กรอกเลขบัตรสมาชิกที่ลงทะเบียนไว้กับ Ohkajhu สอบถามเพิ่มเติมโทร 052080744",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20230130152337016153/detail/6bce52d38b314aba8edc167b24eb9d08_1675092190984637565.webp",
+    "price": "0"
+  },
+  {
+    "title": "ซุปเห็ดทรัฟเฟิล เสิร์ฟพร้อมขนมปังชิโอะเนยทรัฟเฟิล",
+    "description": "Truffle Soup With Shio Truffle Butter Bread",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220925174206016954/detail/5f2e0737bf39411d9e83b669add2585b_1664127712475754369.webp",
+    "price": "247"
+  },
+  {
+    "title": "สเต็กปลากะพงกรอบ ซอสพริกเหลืองดอยออร์แกนิค",
+    "description": "Crispy sea bass with  tamerind and capsicum sauce",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220626145149624830/detail/menueditor_item_8b217d306b794d28b426ca4f896c969b_1657517837943791042.webp",
+    "price": "571"
+  },
+  {
+    "title": "Angel's Secret",
+    "description": "",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20230430173541010874/detail/e3871ca88e3f4de4bd7d89408631b1b6_1682876135919301988.webp",
+    "price": "99"
+  },
+  {
+    "title": "สลัดสาหร่ายคอมบุอะโวคาโดเต้าหู้เย็น",
+    "description": "Kombu And Avocado Salad",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220925174143013392/detail/c7aad8c3a76c4fcabddb2fd5fd5dd69d_1664127689504287788.webp",
+    "price": "253"
+  },
+  {
+    "title": "มะเขือเทศออร์แกนิค 2 ชนิด",
+    "description": "Organic Red Plum/Cherry Tomato",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220419023229017627/detail/85a000ed2ce645d6a82d78092d2ae958_1650335501743550330.webp",
+    "price": "124"
+  },
+  {
+    "title": "ซื้อ 1 แถม 1 ข้าวโพดหวานฮอกไกโดสีม่วงน้ำนม",
+    "description": "",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20211031134613016878/detail/124dfa1db392400b927eea7672c5382a_1635687854345023371.webp",
+    "price": "124"
+  },
+  {
+    "title": "ข้าวโบล์วหน้าเต้าหู้ออร์แกนิคและเห็ด Vegan Tofu Poke Bowl",
+    "description": "Organic Tofu / Avocado / Mushroom / Seawood / Carrot / Beetroot /Shallot",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20210331041031022370/detail/a332070af969435d93150cd0749875ae_1617163831546406321.webp",
+    "price": "230"
+  },
+  {
+    "title": "ข้าวโบล์วแซลมอนย่างมัลติเกรน Multigrain Salmon Poke Bowl",
+    "description": "Baked Salmon / Cherry Tomatoes / Quinoq / Avocado / Barley / Crispy Rice / Pomegranate",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20210331041031077773/detail/5b1aa07fcc74405c91b4e61162aa00e4_1617163831775229388.webp",
+    "price": "265"
+  },
+  {
+    "title": "ข้าวโบล์วลาบทูน่าสไปซี่ Spicy Larb Tuna Poke Bowl",
+    "description": "Larb Tuna / Avocado / Mango / Corn / Cherry Tomatoes / Cashew Nut / Japanese Cucumber",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20210331041031119938/detail/fe54dec1ce164a36a96719cf25f22d98_1617163831969216770.webp",
+    "price": "265"
+  },
+  {
+    "title": "ข้าวโบล์วแซลมอนอะโวคาโด Fresh Salmon Poke Bowl",
+    "description": "Salmon Sashimi / Crispy Salmon Skin / Green Beans / Mango / Beetroot / Ebiko / Seawood / Japanese Cucumber",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20210331041032033607/detail/ce5488d5c1ca497d8a91a68bdf3b42f9_1617163832175275333.webp",
+    "price": "265"
+  },
+  {
+    "title": "สลัดทูน่ายำเเซ่บ",
+    "description": "SPICY TUNA SALAD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZNCHAMTBANXEE/detail/ce731e455a1d40c286466cee287b1877_1598255598093140776.webp",
+    "price": "254"
+  },
+  {
+    "title": "สลัดซีซาร์",
+    "description": "CAESAR SALAD เสริฟคู่น้ำสลัดซีซ่า",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZNCHAMTGPUTGJ/detail/a81384cf86e048d09af792bb9131ef88_1598255598295308000.webp",
+    "price": "264"
+  },
+  {
+    "title": "สลัดธัญพืช",
+    "description": "CEREALS SALAD เสริฟคู่น้ำสลัดครีม",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZNCHAMTMGCWAT/detail/c516e170ce9e415c9145b08204d9a739_1598255598555226401.webp",
+    "price": "124"
+  },
+  {
+    "title": "สลัดเเซลมอนซิมิกับมะม่วงน้ำดอกไม้",
+    "description": "SALMON SASHIMI WITH MANGO SALAD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZNCHAMTWBE1LT/detail/6cfd0fcf302745aa9fdbd358eeec1655_1598255598766473893.webp",
+    "price": "430"
+  },
+  {
+    "title": "สลัดญี่ปุ่น",
+    "description": "JAPANESE STYLE SALAD เสริฟคู่น้ำสลัดงาบด และซีอิ้วญี่ปุ่น",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZNCHAMUEYUKR6/detail/0db9b1013efe4ea3af67744331c50556_1598255598966884347.webp",
+    "price": "230"
+  },
+  {
+    "title": "สลัดเต้าหู้เเซลมอนสาหร่ายสามชนิด",
+    "description": "SALMON SHASIMI WITH TOFU SALAD BOWL เสริฟคู่น้ำสลัดงาขาวงาดำ",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZNCHAMUKACXAA/detail/3f8b6c44c05645a0957535877a35b6d6_1604570570340848830.webp",
+    "price": "407"
+  },
+  {
+    "title": "สลัดข้าวยำและควินัว",
+    "description": "SPICY RICE SALAD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZNCHAMUSBDJWE/detail/61d807d59a574989b2ba77538a3ed1c0_1598255599419376180.webp",
+    "price": "207"
+  },
+  {
+    "title": "สลัดไก่ย่างโซบะญี่ปุ่นบล็อคโคลี่ย่าง",
+    "description": "CHICKEN TERIYAKI + SOBA SALAD เสริฟคู่น้ำสลัดงาบด",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZNCHAMVABM1J2/detail/c7651aff78084c88b1d8bc630febff48_1598255599659725880.webp",
+    "price": "324"
+  },
+  {
+    "title": "ยำหมูย่าง",
+    "description": "SPICY GRILLED PORK SALAD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZNCHAMVDGAKEX/detail/737cee8f7782429bafd2e874f3718bb2_1598255599852504991.webp",
+    "price": "230"
+  },
+  {
+    "title": "ขนมปังกระเทียม",
+    "description": "GARLIC BREAD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZNCHAMVGPWFNE/detail/086d6b3929f04b0fa254a6901e5be2ee_1598255600071459956.webp",
+    "price": "101"
+  },
+  {
+    "title": "ปอเปี๊ยะสดครีมชีสปูโรล",
+    "description": "THAI FRESH CREAM CHEESE SPRING ROLLS WITH CRAB",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZNCHAMVNGM2GT/detail/77effda5b32b4da9af7b8991c13f7afc_1598255600264369189.webp",
+    "price": "217"
+  },
+  {
+    "title": "ไส้กรอกย่างรวม",
+    "description": "GRILLED SAUSAGES",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZNCHAMVVBDEEA/detail/17d0e7dfb2cf4544b36249ee571f158c_1598255600481036684.webp",
+    "price": "282"
+  },
+  {
+    "title": "สปาเก็ตตี้ขี้เมาทะเล",
+    "description": "SPAGHETTI SPICY SEAFOOD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZNCHAMWCAATRT/detail/5f965d98ce624efba04ac1525b23ea66_1598255600648879521.webp",
+    "price": "312"
+  },
+  {
+    "title": "สปาเก็ตตี้คาโบนาร่า",
+    "description": "SPAGHETTI CARBONARA",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZNCHAMWECNTBE/detail/4a445dc8e4fd454891d02200f4e2087c_1598255600842103898.webp",
+    "price": "348"
+  },
+  {
+    "title": "สปาเก็ตตี้ปูครีมไข่กุ้ง",
+    "description": "SPAGHETTI  IN CREAM SAUCE WITH TOBIKO CAVIAR",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZNCHAMWGBWHAA/detail/984faef198284a2c9a70bc8f22d0c17b_1598255601047605770.webp",
+    "price": "395"
+  },
+  {
+    "title": "ข้าวผัดน้ำพริกหนุ่มหมูทอดงาขาว",
+    "description": "GREEN CHILI PASTE RICE SERVE WITH FRIED PORK",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZNCHAMWJFNBKE/detail/569df268019d41478ceed7722b22bd5b_1598255601198852327.webp",
+    "price": "218"
+  },
+  {
+    "title": "Passion Honey",
+    "description": "เสาวรส+สับประรด+โยเกิร์ต",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZNCHAMWL7XUGJ/detail/1f91bfdd872c46cab28522bbde5885e0_1598255601373711602.webp",
+    "price": "112"
+  },
+  {
+    "title": "High performance High protein  สูตร Protein builder  (original) 400 Ml",
+    "description": "สำหรับนักออกกำลังกายวัตถุดิบหลัก alomon milk oat  ที่อุดมไปด้วยโปรตีนสูง และไขมันดีปั่นกับผัก ผลไม้หลัก Avocado Banana",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZNCHAMWRFVECT/detail/7d6dc3e20c9a45c79c08c2ca9f311919_1598255601559669050.webp",
+    "price": "148"
+  },
+  {
+    "title": "สลัดเลือก 4 step (Build your own salad)",
+    "description": "สลัดที่คุณสามารถเลือกชนิดผัก+ท็อปปิ้ง+น้ำสลัดโฮมเมต ได้ตามที่คุณต้องการ",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFVZAAX1TX/detail/7ed371752e8545e2a9a4665ded30b760_1598246860052493186.webp",
+    "price": "71"
+  },
+  {
+    "title": "สลัดทูน่ายำเเซ่บ",
+    "description": "SPICY TUNA SALAD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFVZG3EZJ2/detail/0cc28341d2b941a19839706baa2e0f46_1598246860241115200.webp",
+    "price": "254"
+  },
+  {
+    "title": "เม็กซิกัน นาโช่ส์",
+    "description": "MEXICAN NACHOS",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFVZRA3DA2/detail/7ce666d2179d4397941a1c9d913787d0_1598246860459329315.webp",
+    "price": "348"
+  },
+  {
+    "title": "สลัดธัญพืช",
+    "description": "CEREALS SALAD เสริฟคู่น้ำสลัดครีม",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFV1GUWDA6/detail/aba6ed02cb87488698970d31353dde92_1598246860871102556.webp",
+    "price": "124"
+  },
+  {
+    "title": "สลัดเเซลมอนย่าง",
+    "description": "GRILLED SALMON AND MUSHROOM SALAD เสริฟคู่น้ำสลัดน้ำใสอิตาเลี่ยน และปูอัดวาซิบิ",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFV1NJKAVE/detail/0dbaddad2ec5416e96bb7090c99e7e7f_1598246861107789533.webp",
+    "price": "348"
+  },
+  {
+    "title": "สลัดผักผลไม้",
+    "description": "FRESH FRUITE AND VEGETABLES SALAD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFV1VJBTVA/detail/b4db5c124e6b427baaf40021485cc72d_1598246861389157579.webp",
+    "price": "348"
+  },
+  {
+    "title": "สลัดเเซลมอนซิมิกับมะม่วงน้ำดอกไม้",
+    "description": "SALMON SASHIMI WITH MANGO SALAD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFV2DB4GEE/detail/a5be17aaaaa64e2b8fee5e0bd6187c27_1598246861627952846.webp",
+    "price": "430"
+  },
+  {
+    "title": "สลัดเมืองเหนือ",
+    "description": "NORTHERN THAI SALAD เสริฟคู่น้ำสลัดใสสาระแหน่",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFV2V3LZV6/detail/517fe1af9feb4c6fa9d7a4119b936784_1598246862299274805.webp",
+    "price": "254"
+  },
+  {
+    "title": "สลัดญี่ปุ่น",
+    "description": "JAPANESE STYLE SALAD เสริฟคู่น้ำสลัดงาบด และซีอิ้วญี่ปุ่น",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFV3EVJTEJ/detail/34ebb76155c841c6aadbd3319acd26a4_1598246862539670409.webp",
+    "price": "230"
+  },
+  {
+    "title": "สลัดเต้าหู้เเซลมอนสาหร่ายสามชนิด",
+    "description": "SALMON SHASIMI WITH TOFU SALAD BOWL เสริฟคู่น้ำสลัดงาขาวงาดำ",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20200823150122652737/detail/fff817dee9604e49946b1e6200db120a_1670298004768931194.webp",
+    "price": "407"
+  },
+  {
+    "title": "สลัดทูน่าอโวคาโดเบซิลออร์แกนิค",
+    "description": "TUNA SALAD เสริฟคู่น้ำสลัดเธาซันไอซ์แลนด์",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFV3UAN1SE/detail/3599a8d1140b4bbfb8dcef4172bd1e24_1598246862988556102.webp",
+    "price": "347"
+  },
+  {
+    "title": "สลัดเมี่ยงปลาทูหมี่ข้าวกล้อง",
+    "description": "THAI  MACKEREL LETTUCE SALAD เสริฟคู่น้ำสลัดเมี่ยง",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWACU3DNX/detail/96e22cca22594139bc8547c1a1e03e52_1598246863189743363.webp",
+    "price": "230"
+  },
+  {
+    "title": "ลาบอีสานผักคอส",
+    "description": "SPICY SALAD WITH GREEN COS LETTUCE & TOFU",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWAJ8NTJJ/detail/73b1a70431a74b829124a2506cedca90_1598246863429826104.webp",
+    "price": "336"
+  },
+  {
+    "title": "สลัดแฮมผักร็อคเก็ตและผักโขมสดออร์แกนิค",
+    "description": "HAM SALAD WITH ORGANIC ROCKET + SPINACH เสริฟคู่น้ำสลัดน้ำสลัดฮันนี่ดิจองมัสตาร์ด",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWBABVYRJ/detail/96ea3332c33440389622fc7cfbf9c7ab_1598246863920544172.webp",
+    "price": "348"
+  },
+  {
+    "title": "สลัดเห็ดรวมกุ้งย่าง",
+    "description": "MIXED MUSHROOM WITH GRILLED SHRIMP เสริฟคู่น้ำสลัดซีฟูต และน้ำสลัด",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWBEZCHRE/detail/698376f40d08433b9f950b52676e4da4_1598246864169408969.webp",
+    "price": "324"
+  },
+  {
+    "title": "สลัดข้าวยำและควินัว",
+    "description": "SPICY RICE SALAD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWBRXWZRT/detail/b0b20090e3ad47e99878985d6af890ab_1598246864677269451.webp",
+    "price": "207"
+  },
+  {
+    "title": "สลัดซี่โครงหมูสับปะรด",
+    "description": "PINEAPPLE GLAZED ROASTED PORK SPARE RIB SALAD เสริฟคู่น้ำสลัดเธาซันไอซ์แลนด์",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWCAATEKE/detail/7f278479686e41a0ae409ed7f4d50801_1598246864904838482.webp",
+    "price": "277"
+  },
+  {
+    "title": "สลัดข้าวกล้องและถั่ว",
+    "description": "COLORFUL CHOPPED RICE SALAD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWCEUTYPA/detail/79ab6de6285847179093351931873314_1598246865152074565.webp",
+    "price": "195"
+  },
+  {
+    "title": "สลัดกุ้งย่างอโวคาโด",
+    "description": "GRILLED SHRIMPS WITH AVOCADO SALAD เสริฟคู่น้ำสลัดน้ำสลัดฮันนี่ดิจองมัสตาร์ด",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWCTKAEKE/detail/60f11d970d1641b79acc7ea5f1b065c9_1598246865587229148.webp",
+    "price": "418"
+  },
+  {
+    "title": "สลัดอกไก่ใบไทม์อบ",
+    "description": "CHICKEN SALAD WITH THYME เสริฟคู่น้ำสลัดเต้าหู้ และน้ำสลัดน้ำสลัดฮันนี่ดิจองมัสตาร์ด",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWDBE3ULT/detail/ec4aa5b23b704f4d9b1f3e1da314ca88_1598246865767923150.webp",
+    "price": "348"
+  },
+  {
+    "title": "สลัดแซลมอนโอเมก้า3และเต้าหู้ย่าง",
+    "description": "SALMON SALAD WITH OMEGA3 AND GRILLED TOFU เสริฟคู่น้ำสลัดเต้าหู้ และน้ำสลัดงาบด",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWDJK2HRX/detail/d092c20e6a1943f0b6413653b12a10e3_1598246865995099839.webp",
+    "price": "383"
+  },
+  {
+    "title": "สลัดไก่ย่างโซบะญี่ปุ่นบล็อคโคลี่ย่าง",
+    "description": "CHICKEN TERIYAKI + SOBA SALAD เสริฟคู่น้ำสลัดงาบด",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWDRFAYCJ/detail/cb8ef698201d405d942c2927ac9032e8_1598246866290811275.webp",
+    "price": "324"
+  },
+  {
+    "title": "สลัดปูนิ่มพริกไทยดำ",
+    "description": "SOFT SHELL CRAB SALAD เสริฟคู่น้ำสลัดอิบิโก๊ะ",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWDVXCCLJ/detail/0c33e0387dc04104a8f8781b715e497b_1598246866530857986.webp",
+    "price": "418"
+  },
+  {
+    "title": "สลัดฮอกไกโดเต้าหู้รากบัวกรอบ วอเตอร์เครส",
+    "description": "HOKKAIDO SALAD เสริฟคู่น้ำสลัดงาขาวงาดำ และน้ำสลัดแรนซ์",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWEA26UV6/detail/4059823936e141ef999ac7fc34fce9b5_1598246866739652049.webp",
+    "price": "453"
+  },
+  {
+    "title": "สลัดค็อบบ์",
+    "description": "COBB SALAD เสริฟคู่น้ำสลัดบูลชีส",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWEDEXJTJ/detail/119a85bbe119410fabce1e3598782544_1598246866979436639.webp",
+    "price": "336"
+  },
+  {
+    "title": "พล่าแซลมอนผักคอส",
+    "description": "SPICY SALMON SALAD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWEGA2KLT/detail/ed7572d0c7224d9789c76b557812db7a_1598246867173784856.webp",
+    "price": "348"
+  },
+  {
+    "title": "สลัดหมูย่างหมี่กรอบข้าวกล้อง",
+    "description": "GRILLED PORK SALAD เสริฟคู่น้ำสลัดใสแซ่บ",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWEJCM3MA/detail/9c7d067034574a6d94edcfd541a40480_1598246867377265097.webp",
+    "price": "254"
+  },
+  {
+    "title": "ฟรุ๊ตสลัดน้ำปลาหวานควินัล",
+    "description": "FRUIT SALAD WITH SWEET FISHSAUCE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWELNWCGX/detail/5e4f47a8137241d4b6ed8a121fae5d40_1598246867581909961.webp",
+    "price": "312"
+  },
+  {
+    "title": "สลัดกุ้งเทมปุระ",
+    "description": "SHRIMP TEMPURA SALAD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWENKXEL2/detail/38aebe395d0644a88d5b3bb88ea97c93_1598246867814072133.webp",
+    "price": "230"
+  },
+  {
+    "title": "สลัดพล่าแซลมอนเส้นบุกกระเจี๊ยบเขียว",
+    "description": "SPICY SALMON SALAD WITH OKRA AND KONJAC",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20200823150121368859/detail/menueditor_item_feed6c873ab14772ade319f0481e060b_1657520371082388954.webp",
+    "price": "383"
+  },
+  {
+    "title": "ยำซัมเมลผักเคลกรอบ",
+    "description": "spicy summer salad with crispy kale",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220626143523011820/detail/fa16bd0608b049f883bd0d8f3832aaa5_1656254117239613964.webp",
+    "price": "218"
+  },
+  {
+    "title": "สลัดซีซาร์",
+    "description": "CAESAR SALAD เสริฟคู่น้ำสลัดซีซ่า",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFV1ARJHWA/detail/d828947d4c7b4a1c899ff73151f7aca8_1598246860697805175.webp",
+    "price": "264"
+  },
+  {
+    "title": "สลัดผลไม้",
+    "description": "FRUIT SALAD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFV2JTBTVJ/detail/5c02bacdc9c54bfe958fe7ccc7c479f6_1598246861843981822.webp",
+    "price": "324"
+  },
+  {
+    "title": "สลัดองุ่นคริสปี้",
+    "description": "Crispy Grapes Salad",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20211130162307124553/detail/2992ac0eab594556b1bba62b5f63a6e2_1638289387479728720.webp",
+    "price": "417"
+  },
+  {
+    "title": "สลัดปูอโวคาโด",
+    "description": "AVOCADO CRABS SALAD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFV2RCKJTN/detail/92001a6f82ed4410a32719be13be5ae2_1598246862091678899.webp",
+    "price": "383"
+  },
+  {
+    "title": "สลัดปลากระพงกรอบยำสมุนไพร",
+    "description": "FRIED FISH WITH HERBS SALAD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWARJLJLX/detail/487a2af6ad3944bbabb5d47acf35e87a_1598246863600064641.webp",
+    "price": "348"
+  },
+  {
+    "title": "สลัดเห็ดเทมปุระ",
+    "description": "MUSHROOM TEMPURA SALAD เสริฟคู่น้ำสลัดกระเทียม",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWCLF2BVT/detail/cdfe9a267291438a929b4489d7381935_1598246865382312889.webp",
+    "price": "218"
+  },
+  {
+    "title": "สลัดผักย่างลูกแพรร์ร็อคเก็ต",
+    "description": "GRILLED VEGGIE SALAD WITH ROCKET SALAD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWETJTETX/detail/5993fc175c9540f9b3e8f400b5e77554_1598246868279447030.webp",
+    "price": "306"
+  },
+  {
+    "title": "พล่าแซลมอนสตรอเบอร์รี่ผักคอส",
+    "description": "Spicy Salmon  And Strawberry Salad",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20211130162307022595/detail/92aa954c5766482087b9246f2d86b15f_1638289387017223434.webp",
+    "price": "430"
+  },
+  {
+    "title": "Angel's Secret",
+    "description": "",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20230430173358010456/detail/0651759d5fbb45bdbfc3840a23f33320_1682876013909161796.webp",
+    "price": "99"
+  },
+  {
+    "title": "สลัดห่อตามใจคุณเลือก 4 step (Build your own wrap salad)",
+    "description": "สลัดห่อแรปที่คุณสามารถเลือกชนิดผัก+ท็อปปิ้ง+น้ำสลัดโฮมเมต ได้ตามที่คุณต้องการ",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220626141524017516/detail/c68842f24cd948d8b3176848fcd2042d_1656253096957636982.webp",
+    "price": "112"
+  },
+  {
+    "title": "แรปแซลมอนครีมชีส เสริฟคู่ Chip",
+    "description": "Fresh salmon with crab cream cheese salad wrap",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220626141515010150/detail/9d8d20151cb84aa9a1121ae9645b435a_1656254383198133892.webp",
+    "price": "312"
+  },
+  {
+    "title": "แรปทูน่าเทสตี้ เสริฟคู่ Cruton",
+    "description": "Simple tasty tuna salad wrap (Honey Dijon Mustard Dressing)",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220626145149807123/detail/menueditor_item_326e0f70bf15418599ce39dcb1a86caa_1657516466142534020.webp",
+    "price": "230"
+  },
+  {
+    "title": "แรปไก่และเบค่อน เสริฟคู่ Cruton",
+    "description": "Chicken bacon rach club wrap salad wrap",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220626141449011255/detail/fa7e06eec06c4fce9f12f361a91eeb05_1656253132445791995.webp",
+    "price": "289"
+  },
+  {
+    "title": "ซุปฟักทองญี่ปุ่น",
+    "description": "JAPANESE PUMPKIN SOUP",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWHN3UWVN/detail/ac755ae8f3744eb390cbf567df36d713_1598246868568215899.webp",
+    "price": "101"
+  },
+  {
+    "title": "ซุปเห็ดสามอย่าง",
+    "description": "MUSHROOM SOUP",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWJBBW1LT/detail/95eea0dec8d24797aeb9b55534b1d0d8_1598246868807706227.webp",
+    "price": "101"
+  },
+  {
+    "title": "ซุปหัวหอมใบไทม์ออร์แกนิค",
+    "description": "FRENCH ONION AND ORGANIC THYME SOUP",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWJGPVXNE/detail/9c1967a697054ff79543c24f7ecab211_1598246869070325358.webp",
+    "price": "159"
+  },
+  {
+    "title": "ซุปข้าวโพดแครอท",
+    "description": "SWEET CORN SOUP",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWJNPDJWE/detail/60cc6aecd3794b4e872a145bcb396d8d_1598246869325126790.webp",
+    "price": "112"
+  },
+  {
+    "title": "ซุปสวีทกรีนครีม",
+    "description": "SWEET GREEN SOUP (GREEN PEAS AND SPINACH)",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWJVUW1V2/detail/a3262a4819664b648195502391d75214_1598246869505820727.webp",
+    "price": "112"
+  },
+  {
+    "title": "ซุปเห็ดทรัฟเฟิลมันหวานญี่ปุ่น",
+    "description": "TRUFFLE SOUP + JAPANESE SWEET POTATO",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWKDATZFA/detail/12fc28b2f1d7434da78f1f7c1bbab76d_1598246869715757515.webp",
+    "price": "171"
+  },
+  {
+    "title": "NEW!! ขนมปังกระเทียมครีมชีสยีสต์ธรรมชาติ Natural yeast garlic bread cream cheese",
+    "description": "NEW!! ขนมปังกระเทียมครีมชีสยีสต์ธรรมชาติ หมักจากแอปเปิ้ล ผสมกับแป้งไรซ์เบอร์รี่ ขนมปังจึงนุ่มย่อยง่าย และคุณค่าทางอาหารสูง",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFXURNUBA6/detail/1e6fdcab46ef443f884dea6ff525905f_1598255810608411537.webp",
+    "price": "112"
+  },
+  {
+    "title": "เฟรนซ์ฟรายส์เสิร์ฟคู่น้ำสลัดโฮมเมด",
+    "description": "FRENCH FRIED WITH HOMEMADE DIGGING SAUCE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWEVLDFCJ/detail/eaf7b61066f64ca08ab67f847e2570f8_1598246869933406348.webp",
+    "price": "182"
+  },
+  {
+    "title": "มันหวานกรอบเสิร์ฟคู่น้ำสลัดโฮมเมด",
+    "description": "SWEET POTATO FRIES WITH HOMEMADE DIGGING SAUCE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWFAVCGUA/detail/57cfc6cb16f54e948bbb2836e4d076bb_1598246870145129766.webp",
+    "price": "195"
+  },
+  {
+    "title": "หอมทอดเสริฟคู่น้ำสลัดโฮมเมด",
+    "description": "onion ring WITH HOMEMADE DIGGING SAUCE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWFCT5ERN/detail/22cac9424bd64d53a5a4e2f4dfdc2afd_1598246870365633911.webp",
+    "price": "195"
+  },
+  {
+    "title": "ยำหมูย่าง",
+    "description": "SPICY GRILLED PORK SALAD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWFJTWKAA/detail/c92c08426cdf4d159503ad59deda6f47_1598246871022456282.webp",
+    "price": "230"
+  },
+  {
+    "title": "ยำผลไม้",
+    "description": "SPICY MIXED FRUIT SALAD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWFNECFKE/detail/6a2af4e5e2724d708b0ee2af5cf97aa3_1598246871226655210.webp",
+    "price": "218"
+  },
+  {
+    "title": "ยำคะน้าออร์แกนิคหมูสัปกุ้งสด",
+    "description": "SPICY PRAWN AND PORK SALAD WITH ORGANIC CHINESS KALE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWFT8ETUA/detail/f8f51023082143a9a78ce3108c2d994f_1598246871431877641.webp",
+    "price": "254"
+  },
+  {
+    "title": "ยำถั่วพูปลอดสาร หมูสับกุ้งสด",
+    "description": "SPICY ORGANIC WINGED BEAN",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWGC8CYAN/detail/7a0ad745eda04569b50e8e9b479e87a3_1598246871607035407.webp",
+    "price": "230"
+  },
+  {
+    "title": "ปอเปี๊ยะสดครีมชีสปูโรล",
+    "description": "THAI FRESH CREAM CHEESE SPRING ROLLS WITH CRAB",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWGSEUAEN/detail/2c8b338f37b74aab9516dda6b4277d65_1598246872081017076.webp",
+    "price": "217"
+  },
+  {
+    "title": "ทูน่าลาบอโวคาโดขนมปังกรุบกรอบ",
+    "description": "LARB TUNA AVOCADO",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWHAT5VTJ/detail/ad0c3a4196a347c9bf609ff903173828_1598246872304080979.webp",
+    "price": "371"
+  },
+  {
+    "title": "ยำเส้นบุกปลาทูแคบหมูปราศจากน้ำมัน",
+    "description": "SPICY THAI MACKERAL WITH KONJAC",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWHEXTFEJ/detail/ca09ecfc3c274342a8d655aa01dc9e5c_1598246872558617607.webp",
+    "price": "230"
+  },
+  {
+    "title": "โรลผัก 5 สี แซลมอนกุ้ง",
+    "description": "SALMON + SHRIMP RAINBOW ROLLS",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWHKFVKTJ/detail/ec4d11bae4304614bc918f3221bcde62_1598246873014820089.webp",
+    "price": "288"
+  },
+  {
+    "title": "ยำข้าวโพดหวานฮอกไกโดสีม่วงน้ำนมเสิร์ฟคู่คอหมูทอด",
+    "description": "Hokkaido Milk Corn Salad Spicy Fried Pork",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220626142055014514/detail/3a1c31c9f31647709b43a1a4eab64582_1656253618516193664.webp",
+    "price": "294"
+  },
+  {
+    "title": "เครซี่แคร็บ อะโวคาโด",
+    "description": "Crazy crab avocado bites",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220626145148581534/detail/menueditor_item_a6f30deacb58447f8bf0f3764d159166_1657517874949688679.webp",
+    "price": "406"
+  },
+  {
+    "title": "ยำเห็ดสามอย่าง",
+    "description": "SPICY 3 MUSHROOM SALAD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWFETUBLX/detail/a0f0e5a9e70e44f2a99dca3c4d26e787_1598246870575436014.webp",
+    "price": "136"
+  },
+  {
+    "title": "ยำทูน่าตะไคร้อ่อน",
+    "description": "SPICY TUNA SALAD LEMONGRASS",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWFGXAFKE/detail/b04e2d920e0c4bfab512be052a721042_1598246870774481465.webp",
+    "price": "148"
+  },
+  {
+    "title": "ขนมปังกระเทียม",
+    "description": "GARLIC BREAD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWGLGBWGN/detail/50aad9e1b3be47b586052576748366fa_1598246871816984974.webp",
+    "price": "101"
+  },
+  {
+    "title": "ผักโขมอบชีสกับขนมปังโฮลวีท",
+    "description": "WHOLE WHEAT BREAD + SPINACH BAKED CHEESE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWHG23EPE/detail/6fc3f56c81664ffcae40d1d1f207f53f_1598246872770693887.webp",
+    "price": "183"
+  },
+  {
+    "title": "สเต็กซี่โครงสะพานโค้ง (S)",
+    "description": "BARBEQUE PORK SPARE RIBS (S)",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWKHA2ZAT/detail/60d6c99badcb4f028e638523ab7048bb_1598246873308369820.webp",
+    "price": "441"
+  },
+  {
+    "title": "สเต็กซี่โครงสะพานโค้ง (L)",
+    "description": "BARBEQUE PORK SPARE RIBS (L)",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWKRJX3JE/detail/10ce0005979340ba8e2bb2ab62cebdda_1598246873591033001.webp",
+    "price": "794"
+  },
+  {
+    "title": "สเต็กเเซลมอน เลมอนซอส",
+    "description": "SALMON STEAK LEMON SAUCE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWTAT6GG6/detail/36bab491f08e48258c6d5d0b7f3cd3d5_1598246873841783598.webp",
+    "price": "348"
+  },
+  {
+    "title": "สเต็กเเซลมอนเทริยากิ",
+    "description": "TERIYAKI SALMON STEAK",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWTGYNAPE/detail/0fd5aa59de2c4d71a2705a648846f1c8_1598246874070131467.webp",
+    "price": "536"
+  },
+  {
+    "title": "สเต็กแซลมอนผักโขมทรัพเฟิลเสิร์ฟคู่ผักโขมสด",
+    "description": "Salmon Steak With Spinach And Truffle Cream With Spinach Salad",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220626142746012125/detail/e75d024ef209464d9434e8e7ac89b4c4_1656253663903335201.webp",
+    "price": "501"
+  },
+  {
+    "title": "สเต็กปลากระพงย่างครัสท์สมุนไพร",
+    "description": "GRILLED SEA BASS STEAK WITH HERB CRUST",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWTV62HV2/detail/ca056914b7ca4e08a29e60b02dcb6541_1598246874553003712.webp",
+    "price": "465"
+  },
+  {
+    "title": "ปลากะพงย่างพล่าเห็ดสมุนไพร",
+    "description": "Grilled Sea Bass Steak And Spicy Mushroom With Herb Salad",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20211130162306125400/detail/33579f8bc3fb43c2a091893d89d58843_1638289386733715455.webp",
+    "price": "560"
+  },
+  {
+    "title": "สเต็กไก่สอดไส้ชีส3 ชนิด",
+    "description": "CRISPY CHICKEN CORDON BLEU",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWUEYMELX/detail/e8409c28ec574666a559c28d5388fb6f_1598246874744112698.webp",
+    "price": "442"
+  },
+  {
+    "title": "ไส้กรอกย่างรวม",
+    "description": "GRILLED SAUSAGES",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWUL2CJRX/detail/1af36d2833bd4b8e81b9db4c717ba17e_1598246875001468106.webp",
+    "price": "282"
+  },
+  {
+    "title": "พอร์คชอป ซอสเห็ด",
+    "description": "PORK SHOP MUSHROOM SAUCE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWUTLBVN2/detail/e590041363264b8fb301ac92464ec993_1598246875453562915.webp",
+    "price": "348"
+  },
+  {
+    "title": "คริสปี้ปลากะพงกรอบครีมชีสปูย่าง",
+    "description": "CRISPY SEA BASS STEAK WITH CREAMY CRAB CRAME CHEESE AND GRILLED VEGETABLES",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWVCPVETA/detail/a8748a44c6a042d2afe59ed280f73b4b_1598246875648696669.webp",
+    "price": "560"
+  },
+  {
+    "title": "สเต็กทีโบนเสิร์ฟคู่โอมเมดไส้กรอก",
+    "description": "PORK T BONE STEAK WITH HOMEMADE SAUSAGE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWVJ2VTGE/detail/3dcfabce810243cab9e81023542729fa_1598246875874879758.webp",
+    "price": "454"
+  },
+  {
+    "title": "พอร์คชอป เฟรนซ์คัท",
+    "description": "PORK CHOP FRENCH CUT",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWWCBADRJ/detail/d9312c531813448aa2956d49f49b90ed_1598246876290225993.webp",
+    "price": "407"
+  },
+  {
+    "title": "สเต็กไก่โอ้กะจู๋",
+    "description": "OHKAJHU'S CHICKEN STEAK",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWWG6BJEX/detail/f6650d20cc534bd2b1b13abc31f5618c_1598246876520902524.webp",
+    "price": "348"
+  },
+  {
+    "title": "สเต็กกุ้งลายเสือย่างเสิร์ฟคู่กับริโซ่พาสต้า เลมอน",
+    "description": "Grilled Tiger Prawn Served  With Riso Pasta Lemon",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20211130162307075507/detail/ca1d1ff2d95a450793ce9ae24fb20469_1638289387252846812.webp",
+    "price": "866"
+  },
+  {
+    "title": "สเต็กปลาแซลมอนซอสบีทรูทธัญพืช",
+    "description": "BAKED SALMON STEAK WITH BEETROOT SAUCE AND MUSHROOM",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWWN2CTGJ/detail/9fa54c013cef4dca99c73f88ff60c5cc_1598246876812076635.webp",
+    "price": "501"
+  },
+  {
+    "title": "สเต็กปลาอัลมอนด์กรอบ",
+    "description": "ALMOND CRUSTED FISH WITH MISO SAUCE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWWT6JULX/detail/0de86b25624d4dd4aaa6ed0871a2f601_1598246877034908683.webp",
+    "price": "348"
+  },
+  {
+    "title": "สเต็กเป็ดหนังกรอบซอสเมเปิ้ลมัดตาร์ด",
+    "description": "SMOKED DUCK LEG WITH MAPLE GROUND MUSTARD SAUCE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWXMAMVGN/detail/5d111dc91c3e480badcf9365a1457eca_1598246878426593870.webp",
+    "price": "348"
+  },
+  {
+    "title": "สเต็กซี่โครงอบน้ำผึ้งซอสพริกขี้หนูออร์แกนิค",
+    "description": "ROASTED HONEY-GLAZED SPARE RIB IN CHILLI SAUCE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWXPB3BV2/detail/7f311ab9370c4a01bd20a14c366a677b_1598246878671063921.webp",
+    "price": "677"
+  },
+  {
+    "title": "คลับแซนวิช ขนมปังเมล็ดเฟล็กซีด",
+    "description": "CLUB SANDWICH WITH FLAXEED BREAD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWXVNMERE/detail/bf392164f77549a6bbca813b9b98692d_1598246879231696995.webp",
+    "price": "230"
+  },
+  {
+    "title": "ซี่โครงเบบี้ แบ็คริบส์ เสิร์ฟคู่ไส้กรอกเมืองเหนือ",
+    "description": "BAKED BABY BACK RIBS WITH HOMEMADE NORTHERN STYLE SAUSAGES",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWYDCBJKE/detail/f05453d9485944e5b229d7e23f1b51dc_1598246879726733003.webp",
+    "price": "936"
+  },
+  {
+    "title": "ฟิชเเอนด์ชิพส์",
+    "description": "FISH AND CHIPS",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWYHCLBWE/detail/c98114754cf14388a9afc2eaa2e8ddf3_1598246879952179186.webp",
+    "price": "230"
+  },
+  {
+    "title": "สเต็กแฮมซอสแอปเปิ้ล (S/L size)",
+    "description": "SMOKED HAM STEAK (APPLE SAUCE) / S",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWZCCDFTJ/detail/7fc7a7e173d54c1a87267bc18fa67cf5_1598246880596905727.webp",
+    "price": "265"
+  },
+  {
+    "title": "เลดี้ริบส์ โอ้กะจู๋ (Half/Full Rack)",
+    "description": "LADY'S RIBS OHKAJHU  (Half/Full Rack)",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWZEX3YSE/detail/d5790f776d5547a1a45daa7cd930f3e4_1598246880817237635.webp",
+    "price": "465"
+  },
+  {
+    "title": "สเต็กปลาทูน่าย่างงาขี้ม่อนอะโวคาโดบด",
+    "description": "Sesame-Crusted Tuna Steaks",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220626145149501542/detail/menueditor_item_df7d714b83ba440597333f020c5808f9_1657516548755998855.webp",
+    "price": "583"
+  },
+  {
+    "title": "สเต็กไก่และคื่นช่ายฝรั่ง",
+    "description": "CHICKEN STEAK WITH MUSHROOM AND CELERY SAUCE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWTN3CXCE/detail/363bfb5147e94596a0ad82f1b6d45545_1598246874367290460.webp",
+    "price": "336"
+  },
+  {
+    "title": "สเต็กปลากระพงผักย่างกับซัลซ่าผลไม้",
+    "description": "GRILLED SEA BASS WITH GRILLED MIX VEGGIES AND SESONAL FRUIT SALSA",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWVRUAFGJ/detail/889b359ecabc40dab010cf034b05825c_1598246876100996606.webp",
+    "price": "524"
+  },
+  {
+    "title": "สเต็กปลาทูน่า",
+    "description": "TUNA STEAK",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWXCKWVET/detail/71e259a7919c4c76a548c2e9b4bbb100_1598246877513112144.webp",
+    "price": "418"
+  },
+  {
+    "title": "สเต็กปลาหิมะย่าง",
+    "description": "SABLEFISH STEAK WITH MUSHROOM",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWXETVHN6/detail/3a9a1f62c18c4a6088b6e4be21922887_1598246877755812159.webp",
+    "price": "935"
+  },
+  {
+    "title": "แซลมอนและกุ้งย่างซอสครีมอบมันฝรั่งและผักโขมสดออร์แกนิค",
+    "description": "SALMON + PRAWN FISH PIE SWEET POTATO GRATIN",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWXGZBKBE/detail/3e29a902edf945dbad0f866dc7117911_1598246877996175734.webp",
+    "price": "583"
+  },
+  {
+    "title": "สเต็กไก่ย่าง ซอสพริกไทยดำไวน์แดง",
+    "description": "GRILLED CHICKEN WITH PEPPER RED WINE SAUCE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWXJ2UWGN/detail/753648dfaf2744c2ae476ebad0923493_1598246878189209150.webp",
+    "price": "348"
+  },
+  {
+    "title": "สเต็กหมูเมืองเชียงใหม่",
+    "description": "THAI PORK STEAK (LARB NUER)",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWXTFNXNX/detail/3a584982608b4c63a47b3b7a66deb47d_1598246878979195852.webp",
+    "price": "453"
+  },
+  {
+    "title": "โอ้กะจู๋ใส้กรอกเยอรมัน",
+    "description": "OHKAJHU'S GRILLED GERMAN SAUSAGES",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWYNLDAJX/detail/0f800ee9e6f4435ebf2d3946437d0e1e_1598246880174962662.webp",
+    "price": "407"
+  },
+  {
+    "title": "โอ้กะจู๋ชีสทอด",
+    "description": "OHKAJHU'S FRIED CHEESE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWYUFXAVX/detail/28141c97299f4f94bd2fe6e71da6a606_1598246880387761856.webp",
+    "price": "218"
+  },
+  {
+    "title": "สเต็กแกะตุ๋น (S/L size)",
+    "description": "LAMB SHANK (S)",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWZJALBPA/detail/39d05c1250bc412b936caf15a65777ee_1598246881059668689.webp",
+    "price": "465"
+  },
+  {
+    "title": "สปาเกตตี้ทูน่าต้มยำแห้ง",
+    "description": "SPICY TUNA SPAGHETTI",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWZLXCJNE/detail/f709f687d262419fb3f1f7420566d0db_1598246881328413288.webp",
+    "price": "230"
+  },
+  {
+    "title": "สปาเก็ตตี้ขี้เมาไก่โหระพากรอบ",
+    "description": "THAI STYLE SPAGHETTI WITH SPICY CHICKEN AND FRIED SWEET BAS",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWZPBUCRJ/detail/0ad17fb769304874afdf0ace2af46d08_1598246881552336581.webp",
+    "price": "265"
+  },
+  {
+    "title": "สปาเก็ตตี้ขี้เมาทะเล",
+    "description": "SPAGHETTI SPICY SEAFOOD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWZTAJABE/detail/ba8c4d17629d4ce486baa064157ed9b1_1598246881789632009.webp",
+    "price": "312"
+  },
+  {
+    "title": "สปาเก็ตตี้คาโบนาร่า",
+    "description": "SPAGHETTI CARBONARA",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFWZVECCKA/detail/ab70cb6747144c22a4228d6178cd2462_1598246882014166010.webp",
+    "price": "348"
+  },
+  {
+    "title": "สปาเก็ตตี้คะน้าออร์แกนิคและเบคอนกรอบ",
+    "description": "ORGANIC CHINESE KALE AND CRISPY BACON SPAGHETTI",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFW1EAVHCX/detail/df2965d45b8d40b8bc2c9705f6992ba8_1598246882458309173.webp",
+    "price": "348"
+  },
+  {
+    "title": "สปาเก็ตตี้ปูนิ่มพริกเกลือ",
+    "description": "SOFT SHELL CRAB WITH CHILI AND SALT SPAGHETTI",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFW1J2VBEE/detail/99309e2b294b4d2bb52c6016b6e15260_1598246882677781041.webp",
+    "price": "430"
+  },
+  {
+    "title": "สปาเก็ตตี้ซอสมะเขือเทศ",
+    "description": "TOMATO SPAGHETTI WITH SAUCE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFW1NEAZL2/detail/c30ed1c3bd7e494fbb7e601c4b312ab6_1598246882935504697.webp",
+    "price": "218"
+  },
+  {
+    "title": "สปาเก็ตตี้ต้มยำปูกุ้ง",
+    "description": "TOM YUM SPAGHETTI WITH SHRIMP + CRAB",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFW1TNN3HA/detail/635e588fa90f476cbf3f5343c3185e00_1598246883435393369.webp",
+    "price": "418"
+  },
+  {
+    "title": "สปาเก็ตตี้ครีมไส้อั่ว",
+    "description": "SPAGHETTI WITH THAI SAUSAGE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFW1VXDTV2/detail/0636a2137387466da5bfe4c85fc461aa_1598246883680645522.webp",
+    "price": "289"
+  },
+  {
+    "title": "สปาเก็ตตี้ซอสแอปเปิ้ลกุ้ง",
+    "description": "SHRIMP AND APPLE SAUCE SPAGHETTI",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFW2EBNDRA/detail/e2add84446d4498d9e1b89129b8168bd_1598246884119550030.webp",
+    "price": "254"
+  },
+  {
+    "title": "สปาเก็ตตี้กุ้งพริกสด",
+    "description": "SPAGHETTI  WITHSHIMP AND FRESH CHILI",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFW2G6CFTE/detail/efb887be7c974166ae355f8a5e709505_1598246884356128957.webp",
+    "price": "312"
+  },
+  {
+    "title": "สปาเก็ตตี้ปูครีมไข่กุ้ง",
+    "description": "SPAGHETTI  IN CREAM SAUCE WITH TOBIKO CAVIAR",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFW2LLDUA6/detail/2ebe89efe791413aae25e3d43794818e_1598246884599044206.webp",
+    "price": "395"
+  },
+  {
+    "title": "สปาเก็ตตี้เห็ดรวมครีมทรัฟเฟิล",
+    "description": "SPAGHETTI  IN TRUFFLE CREAM SAUCE + MASHROOM",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFW2NYUWJN/detail/1218a92d4da445de87eb0d7726998350_1598246884870564932.webp",
+    "price": "430"
+  },
+  {
+    "title": "สปาเกตตี้ - เนื้อน่องลายเสิร์ฟกับเลมอน",
+    "description": "Spaghetti Beef Shank With Lemon",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220626142331113349/detail/ffab56f4e22d40dc8c3eebf735116578_1656253422332089718.webp",
+    "price": "348"
+  },
+  {
+    "title": "สปาเกตตี้ - ผักเคลออร์แกนิคพริกแห้งเบคอนกรอบ",
+    "description": "Organic Kale And Crispy Bacon Spaghetti",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220626143231316739/detail/43cd9e7d296e44e5b83abe0188cd7896_1656253949418548528.webp",
+    "price": "348"
+  },
+  {
+    "title": "สปาเก็ตตี้มะเขือเทศคลาสสิค",
+    "description": "CLASSIC TOMATO SPAGHETTI WITH SAUSAGE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFW1AKXFJT/detail/10a03ee108d74d2686d58ae947cbf783_1598246882238306718.webp",
+    "price": "306"
+  },
+  {
+    "title": "สปาเกตตี้ - ขี้เมาเนื้อบดจากพืชแพลนต์เบสต์",
+    "description": "Spaghetti Spicy Plant Base",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220626145149930194/detail/menueditor_item_e0258be1672e40ba8b977bb9ca6d4adb_1657516663491078164.webp",
+    "price": "312"
+  },
+  {
+    "title": "ข้าวผัดหมู",
+    "description": "PORK  FRIED RICE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFW2UGMYNT/detail/851c186a35a742a8a697b3dac41b8af7_1598246885285014212.webp",
+    "price": "135"
+  },
+  {
+    "title": "ข้าวกะเพราหมู",
+    "description": "SPICY STIR FRIED PORK  AND HOLY BASIL WITH RICE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFW3AU41G6/detail/cea36ac4c5aa4fefb29fa9c43149dc29_1598246885521273100.webp",
+    "price": "135"
+  },
+  {
+    "title": "ข้าวอบพริกไทยดำหมู",
+    "description": "SPICY STIR FRIED PORK AND BLACK PEPER WITH RICE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFW3C34ZAA/detail/78b1d79a4c00492f96ffc6599e16c00f_1598246885752394539.webp",
+    "price": "135"
+  },
+  {
+    "title": "ข้าวผัดผักรวมจากสวน",
+    "description": "STIR FIRED MIXED VEGETABLES WITH RICE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFW3GBK2EJ/detail/01f301f5aa2e470da11241a91bd963f7_1598246885969303783.webp",
+    "price": "99"
+  },
+  {
+    "title": "ข้าวผัดเห็ดซอสญี่ปุ่น",
+    "description": "RICE WITH STIR FRIED MUSHROOM WITH JAPANESE SAUCE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFW3JLCBJT/detail/26c11c470ce34157b62f505e59da32b9_1598246886206449611.webp",
+    "price": "112"
+  },
+  {
+    "title": "ข้าวคะน้าออร์แกนิคเบคอนกรอบ",
+    "description": "STIR FIRED ORGANIC CHINESE KALE AND CRISPY BACON WITH RICE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFW3NRKUN2/detail/925519c7e3bf4d779b6ff839d5371a38_1598246886431227325.webp",
+    "price": "207"
+  },
+  {
+    "title": "ข้าวต้นอ่อนทานตะวันหมูกระเทียม",
+    "description": "SUNFLOWERS SPOUTS WITH GARLIC PORK",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFW3UFEDE6/detail/23694df0a3d2481ba459e6f54ec2c04e_1598246886713022877.webp",
+    "price": "171"
+  },
+  {
+    "title": "ข้าวซี่โครงหมูอบสับปะรด",
+    "description": "PINEAPPLE GLAZED ROASTED PORK SPARE RIB WITH RICE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFXACP22N6/detail/8723bfe2db824164b1314c721ea67401_1598246887190759540.webp",
+    "price": "171"
+  },
+  {
+    "title": "ข้าวผัดน้ำพริกหนุ่มหมูทอดงาขาว",
+    "description": "GREEN CHILI PASTE RICE SERVE WITH FRIED PORK",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFXAEVCBVJ/detail/c57372a6a73b440fabd8a5fb8ed295e1_1598246887407625944.webp",
+    "price": "218"
+  },
+  {
+    "title": "ข้าวกะหล่ำปลีออร์แกนิคผัดไก่",
+    "description": "FRIED ORGANIC CABBAGE WITH CHICKEN RICE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFXAG65UEJ/detail/8ecefc16c56a4e91b51843d623dda40f_1598246887596427594.webp",
+    "price": "171"
+  },
+  {
+    "title": "ข้าวห่อหมกทะเลแห้ง",
+    "description": "SEAFOOD + COCONUT WITH CURRY PASTE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFXARZEGT2/detail/fe8bc40fd7454cd695d47ef871003652_1598246888325800620.webp",
+    "price": "230"
+  },
+  {
+    "title": "ราดหน้าหมูเส้นกรอบคะน้าออร์แกนิค",
+    "description": "FIRED NOODLE WITH ORGANIC CHINESE KALE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFW2SANVRA/detail/47a5790c954c40c692e2d593a07edb6b_1598246885060852108.webp",
+    "price": "230"
+  },
+  {
+    "title": "ข้าวคะน้าออร์แกนิคปลาเค็มทอด",
+    "description": "THAI SALT FISH FRIED RICE WITH ORGANIC CHINESE KALE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFXANPL2VA/detail/5f9d7a2d90684aa5a8ac9129b1caf882_1598246888104310924.webp",
+    "price": "218"
+  },
+  {
+    "title": "ข้าวคลุกปลาทูทอดผักเคล",
+    "description": "mackerel fried rice with fresh kale",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220626145149043094/detail/menueditor_item_b0e82868f8a8467bb5b53921cc219863_1657520129137537598.webp",
+    "price": "207"
+  },
+  {
+    "title": "ข้าวคลุกคะน้าออร์แกนิคปลาเค็มทอด",
+    "description": "Thai Salt Fish Fried Rice With Oganic Chinese Kale",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220626145149952779/detail/menueditor_item_127809f90ec84f81a0da41e60a95deee_1657519135470770818.webp",
+    "price": "218"
+  },
+  {
+    "title": "ข้าวปลากระพงผัดต้นหอมกระเทียมไข่ออนเซน",
+    "description": "STIR FIRED SEA BASS WITH GARLIC RICE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFXAUA2VCT/detail/b49068e85f244ffd83d11f683613ebd0_1598246888528274904.webp",
+    "price": "230"
+  },
+  {
+    "title": "ข้าวผัดหมูย่างผักเคลออร์แกนิค",
+    "description": "Grilled Pork Fried Rice With Organic Kale",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220626142252010183/detail/c3c976f12eb74293baf31fffda81af47_1656253361721020128.webp",
+    "price": "348"
+  },
+  {
+    "title": "ข้าวเนื้อน่องลายตุ๋น",
+    "description": "Thai Style Braised Beef Shank With Rice",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220626142405011207/detail/d0255e705a284e1e88c82ad34baf6b15_1656253437495169169.webp",
+    "price": "289"
+  },
+  {
+    "title": "ไข่ดาวไร้น้ำมัน",
+    "description": "FRIED NOODLE WITH CHICKEN AND ORGANIC MORNING GLORY SPROUTS",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFXBAAKEHE/detail/2733831d465d4695a5bb423b6eb51f3a_1598246888789372183.webp",
+    "price": "18"
+  },
+  {
+    "title": "ข้าวผัดน้ำพริกลงเรือ",
+    "description": "SAVOURY CHILLI AND SHRIMP PASTE WITH RICE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFXAAEJKTA/detail/bf7c6c9844bf45b5915f38d610be2ae1_1598246886952654807.webp",
+    "price": "159"
+  },
+  {
+    "title": "ข้าวผัดเห็ดทรัฟเฟิลผักเคลเบคอนกรอบ",
+    "description": "Truffle fried rice with kale and crispy bacon",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220626145149864536/detail/menueditor_item_fcc56e52eec746cf9cc467bd1c930d9d_1657519153974397811.webp",
+    "price": "218"
+  },
+  {
+    "title": "ข้าวผัดไข่ผักเคล",
+    "description": "fried rice with kale and egg",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220626144229176303/detail/1bb0b7fda7fe45d681e7d9ec7ae60af4_1656254547486820594.webp",
+    "price": "171"
+  },
+  {
+    "title": "ข้าวผัดผักเคลไส้อั่วใส่ไข่",
+    "description": "Northern Thai style sausage fried rice with kale",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220626145149417886/detail/menueditor_item_9f97f14b235a4133946d1559ac70694a_1657520118486133400.webp",
+    "price": "183"
+  },
+  {
+    "title": "สลัดข้าวธัญพืชเจ",
+    "description": "COLOR CHOPPED RICE SALAD WITH SHIITAKE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFXDAPCGG2/detail/a63a2bb1bf8945c28d51d65e1373e8eb_1598246890887905347.webp",
+    "price": "207"
+  },
+  {
+    "title": "สลัดกระเจี๊ยบเขียวสาหร่ายควินัว",
+    "description": "OKRA SUMMER SALAD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFXCRGDHE6/detail/a322d76dbec944abba8b5aa5f3883d1c_1598246890686300881.webp",
+    "price": "218"
+  },
+  {
+    "title": "สลัดเต้าหู้เจเห็ด3อย่าง",
+    "description": "VEGETARIAN TOFU AND MUSHROOM SALAD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFXCCXVVMA/detail/af32b828a3d54e29a35b11d2276d465b_1598246890218234604.webp",
+    "price": "230"
+  },
+  {
+    "title": "ลาบอีสานผักคอสเจ",
+    "description": "VEGETARIAN SPICY SALAD WITH GREEN COS LETTUCE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFXCJEWGNN/detail/fe3fcdad4f0142debc8f4f88247c882e_1598246890464442246.webp",
+    "price": "218"
+  },
+  {
+    "title": "ข้าวขี้เมาปลาและเห็ดเจ",
+    "description": "RICE WITH STIR FRIED MUSHROOM WITH JAPANESE SAUCE",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFXBE8CZHA/detail/7f2098e79e3a4a4abd6de6eb48ca2755_1598246889222624230.webp",
+    "price": "141"
+  },
+  {
+    "title": "สปาเก็ตตี้โหระพาพริกหวานเจ",
+    "description": "VEGETARIAN SPAGHETTI THYME AND SWEET PEPPER",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFXBLEDHC6/detail/bc9b1e6141734e95b93e22d16e79fe01_1598246889472100841.webp",
+    "price": "171"
+  },
+  {
+    "title": "สปาเกตตี้ - เนื้อบดโหระพา พริกหวานแพลนต์เบสต์",
+    "description": "Vegan Spaghetti With Sweet Basil And Sweet Pepper",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220626145149901073/detail/4fed20df9903476d982817710ceb8cb8_1680061169533034677.webp",
+    "price": "230"
+  },
+  {
+    "title": "สปาเกตตี้ - คาโบนาร่าเนื้อบดและเห็ดแพลนต์เบสต์",
+    "description": "Vegan Spaghetti Carbonara",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220626145149597361/detail/menueditor_item_43311e0e13934a5e8802ebeaa79a89e2_1657519097212042127.webp",
+    "price": "301"
+  },
+  {
+    "title": "ข้าวอบพริกไทยดำเนื้อบดจากพืช (Plant Base)",
+    "description": "Spicy Stir - Fried Plant Base and Black Pepper With Rice",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220626143740014997/detail/686ab1f0fd7941bd8e39668f50ef9af5_1656254256653035687.webp",
+    "price": "171"
+  },
+  {
+    "title": "ข้าวกระเพราเนื้อบดจากพืช (Plant Base)",
+    "description": "Rice with Tin-Fried vegetable protein and basil leawes",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220626145149019533/detail/menueditor_item_377b2774dd9a408c8ae82dd81868adf0_1657518007485104439.webp",
+    "price": "171"
+  },
+  {
+    "title": "ข้าวผัดเนื้อบดจากพืช (Plant Base)",
+    "description": "Plant Base Fried Rice",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220626145149831535/detail/menueditor_item_15b1be1202c74a0fbff747052f6efbdc_1657516727072021696.webp",
+    "price": "171"
+  },
+  {
+    "title": "ข้าวผัดเป็ดอบพริกไทยดำเจ",
+    "description": "RICE WITH ROASTED VEGETARIN DUCK WITH BLACK PEPPER",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFXBBGKJKA/detail/d6d48f4b18f14991ade42a3d80ac47ea_1598246889003463139.webp",
+    "price": "141"
+  },
+  {
+    "title": "สปาเก็ตตี้คาโบนาร่าเจ",
+    "description": "VEGETARIAN SPAGHETTI CARBONARA",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFXBN3C1CX/detail/d070bdecce604ebe8d4e9459dacfb7f0_1598246889756919257.webp",
+    "price": "183"
+  },
+  {
+    "title": "สลัดปลาหิมะเต้าหู้เจ",
+    "description": "VEGETARIAN FISH AND TOFU SALAD",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFXBTPU1RJ/detail/21379dc4344e45d0866898aaa0ce6f53_1598246889989375471.webp",
+    "price": "207"
+  },
+  {
+    "title": "ข้าว3 ชนิดเสริฟกับกับข้าว 1 อย่าง",
+    "description": "SPICY VEGETARIAN MINCED PORK",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFXDFFVFJT/detail/c2253f02ac3c4d40b635b298106732b3_1598246891141372837.webp",
+    "price": "148"
+  },
+  {
+    "title": "มะม่วงเมลอนสาคูนมสด MANGO SAGO",
+    "description": "มะม่วงเมลอนสาคู  หอมหวานเมลอนนมสด",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFXDT8EXTT/detail/097edb073c5a49b499b529fc6b34d4ae_1598246891788367776.webp",
+    "price": "112"
+  },
+  {
+    "title": "มะม่วงโยเกิร์ตข้าวไรซ์เบอร์รี่",
+    "description": "Mango Yougurt Riceberry Smoothie",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20210331041032190167/detail/b3b0b897f91e47f08abc1fce4760b065_1617163832852923463.webp",
+    "price": "159"
+  },
+  {
+    "title": "พุดดิ้งอัญชันออร์อกนิคมะพร้าวอ่อน BUTTERFLY PEA PUDDING",
+    "description": "พุดดิ้งนุ่มเนียนจากกะทิ และมะพร้าวหอม  ได้รสชาติอ่อนจากอัญชัญ",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFXDKFJFEE/detail/e58278c0ca3747cfa086b5592e73ec76_1598246891367013876.webp",
+    "price": "101"
+  },
+  {
+    "title": "สาคูแท้ มะพร้าวอ่อนลำไย COCONUT SAGO WITH LONGAN",
+    "description": "สาคูแท้จากต้นสาคู ส่งต้นจากพัทลุง  ขนมหวานที่นำสาคูแท้ 100% ได้ความหอมหวานจากลำใย และกะทิใบเตอยหอมๆ",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFXDSBLYMA/detail/fe573aa976994a3b956a2bf8b99bbcae_1598246891598198516.webp",
+    "price": "148"
+  },
+  {
+    "title": "ขนมข้าวฟ่างกะทิสด SWEET SORGHUM COCONUT MILK",
+    "description": "ข้าวฟ่างเปียกใบเตยกะทิสด ขนมไทยชนิดหนึ่งที่มักจะแบบเสิร์ฟอุ่นๆ พร้อมราดด้วยกะทิหอมๆ ขนมโบราณที่หาทานได้ยากสมัยนี้",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/3-CZM2CPUEAADVVJ-CZM2FFXEA2C1JX/detail/47890f25983541f188fd2cec82eb42c6_1598246892013212463.webp",
+    "price": "101"
+  },
+  {
+    "title": "น้ำผลไม้สกัดเย็น 100%  สูตร 1 (I)",
+    "description": "แครอท,แอปเปิ้ล,คื่นช่ายฝรั่ง,สับปะรด,เลม่อน,ขิง",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220907040050015052/detail/f4f56de01b4e4218af615835d515d4ca_1662523228216499398.webp",
+    "price": "112"
+  },
+  {
+    "title": "น้ำผลไม้สกัดเย็น 100%  สูตร 2 (A)",
+    "description": "แครอท,แอปเปิ้ล,ส้มเขียวหวาน",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220907035956018162/detail/8ab1b3e8e74a4faebfedfacb9e2b8535_1662523178418320908.webp",
+    "price": "112"
+  },
+  {
+    "title": "น้ำผลไม้สกัดเย็น 100%  สูตร 3 (L)",
+    "description": "แครอท,แอปเปิ้ล,คื่นช่ายฝรั่ง,สับปะรด,เลม่อน,ขิง",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220907035916019041/detail/f56aca9bdfc04e5bb717af87960f2f03_1662523135261311212.webp",
+    "price": "112"
+  },
+  {
+    "title": "น้ำผลไม้สกัดเย็น 100%  สูตร 4 (C)",
+    "description": "แครอท,แอปเปิ้ล,คื่นช่ายฝรั่ง,แตงกวา,บีทรูท,พาสเล่ย์,เลม่อน",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220907035759019541/detail/0b038a588bb747f8a8eb01dd881dd039_1662523068451238140.webp",
+    "price": "112"
+  },
+  {
+    "title": "น้ำผลไม้สกัดเย็น 100% GO GREEN",
+    "description": "ผักใบเขียว,แอปเปิ้ล,คื่นช่ายฝรั่ง,เมล็ดเชีย,ฝรั่ง",
+    "imageSrc": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/THITE20220907035719012840/detail/5aa0647ee8774226bc6877f98be6fc6e_1662523027505146530.webp",
+    "price": "112"
+  }
+]
