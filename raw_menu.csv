@@ -1,0 +1,352 @@
+Restaurant name,Menu name,Image,Price,Tag
+kub kao kub pla,"Box of joy set A 
+(ข้าวสวย + ใบเหลียงผัดไข่ + ขาหมูคาราเมล + สะตอผัดกุ้งกะปิ+ ไข่ต้มยางมะตูม)",,259,rice
+kub kao kub pla,"Box of joy set B
+(ข้าวสวย + หมูผัดกะปิ + ดอกขจรผัดไข่ใส่วุ้นกุ้งเสียบ + แกงส้มชะอมไข่ทอดดอกขจรกุ้งสด+ ไข่ต้มยางมะตูม)",,259,rice
+kub kao kub pla,"Box of joy set E
+(ข้าวสวย + คั่วกลิ้งกระดูกหมูอ่อน + ต้มยำกุ้งน้ำข้น + ไข่เจียวปู + กุนเชียงทอด)",,259,rice
+kub kao kub pla,"ข้าวไข่ข้นสตูวเนื้อวัว
+(Rice topped with ox tongue stew and scrambled egg)",,285,rice
+kub kao kub pla,"ข้าวไข่ข้นหมูกรอบคั่วพริกเกลือ
+(Rice topped with stir-fried crispy pork with chili & salt and scrambled egg)",,285,rice
+kub kao kub pla,"ข้าวไข่ข้นเนื้อกระเทียมพริกไทย
+(Rice topped with stir-fried beef, garlic and scramble egg)",,285,rice
+kub kao kub pla,"ข้าวผัดคั่วกลิ้งกระดูกหมู
+(Stir-fried pork ribs and yellow curry paste with rice)",,250,rice
+kub kao kub pla,"ข้าวผัดหมูเกาหลี
+(Stir-fried pork with Korean sauce topped with rice)",,235,rice
+kub kao kub pla,"ข้าวผัดต้มยำแห้งหมูหวาน
+(Stir-fried sweet pork & rice with tom yum paste)",,235,rice
+kub kao kub pla,"ข้าวผัดไตปลาแห้งกุนเชียง 
+(Fried rice mixed with southern style fish curry and chinese sausage)",,225,rice
+kub kao kub pla,"ข้าวหน้ากุ้งพริกขี้หนู
+(Stir-fried hot chilli prawns topped with rice)",,255,rice
+kub kao kub pla,"ข้าวไข่ข้นปลาหมึกผัดพริกเผา
+(Rice topped with stir-fried squid with chili paste and scramble egg)",,265,rice
+kub kao kub pla,"สปาเกตตี้ซอสเนื้อ
+(Spaghetti bolognese)",,265,noodle
+kub kao kub pla,"อูด้งคาโบนาร่ากุ้งซอสครีมไข่กุ้ง
+(Udon carbonara with shrimp and Ebiko cream sauce)",,245,noodle
+kub kao kub pla,"สปาเกตตี้คาโบนาร่า
+(Spaghetti carbonara)",,250,noodle
+kub kao kub pla,"มักกะโรนี แฮม กุ้ง
+(Macaroni and cheese with shrimps and ham)",,250,noodle
+kub kao kub pla,"ข้าวผัดเห็ดหอมสด
+(Stir-fried fresh shiitake mushroom topped with rice)",,190,vegan
+kub kao kub pla,"ผัดซีอิ๋วมัง
+(Stir-fried noodles soy sauce with vegetable and tofu)",,180,vegan
+kub kao kub pla,"ผัดไทยมัง
+(Pad Thai vegetarian style)",,190,vegan
+kub kao kub pla,"กะเพรามัง
+(Rice topped with stir-fried Thai basil (vegetarian style))",,195,vegan
+kub kao kub pla,"ราดหน้าเผือกทอด
+(Rice noodles with deep-fried taros and mixed vegetables in thick sauce)",,220,vegan
+SanYod,"ผัดซีอิ๋วคะน้าฮ่องกง
+(Stri-fried noodles soy sauce with meat)",,185,เส้น
+SanYod,"เส้นหมี่ผัดกระเฉดกุ้ง
+(Stir-fried vermicelli with water mimosa)",,210,เส้น
+SanYod,"ข้าวผัดหยางโจว
+(Stir-fried rice with Shrimp and bbq pork)",,160,ข้าว
+SanYod,"ข้าวต้มกุ้ง
+(Rice Soup With Shrimps)",,175,ข้าว
+SanYod,"หมี่ฮกเกี้ยน
+(Stir Fried Noodle With Crab Meat In Oyster Sauce)",,260,เส้น
+SanYod,"หมี่ฮกเกี้ยนผัดซอสเป็ดย่าง
+(Stir Fried Noodle With Duck, Bell Peppers In Roast Duck Sauce)",,185,เส้น
+SanYod,"โกยซีหมี่ผัดแห้งปู
+(Stir Fried Noodle With Crab Meat In Oyster Sauce)",,210,เส้น
+shari shari,Salmon BLT (Full),,288,Wrap
+shari shari,Tempura Mango & Mentaiko,,288,Wrap
+shari shari,Bulgogi Buddy (Grilled Beef Ribeye),,228,Wrap
+shari shari,Tuna Cream Cheese ,,288,Wrap
+shari shari,Poke Bowl,,255,Poke bowl
+shari shari,Salmon BLT salad,,268,salad
+shari shari,Salsa Tofu Salad,,190,salad
+shari shari,Fiery Tuna Salad ,,268,salad
+So vegan,"ข้าวแห้งเห็ด
+(rice topped​ w/stir​ fried​ mushroom's​ stripe​&minced​ porkless​)",,85,Vegan
+So vegan,"กะเพราโบราณเจ
+(rice w/stir​ fried​ porkless​ and basil)",,85,Vegan
+sook sathon vegan,"ข้าวกล้องกะเพราคั่วพริกแห้งเจ
+(J Rice with plant-based, basil and dried chili)",,149,Vegan
+sook sathon vegan,"ราดหน้าคะน้าฮ่องกง
+(Chinese gravy soup served with fried noodles 
+(Plant-based meat, tofu and Hong Kong kale))",,179,Vegan
+sook sathon vegan,"ก๋วยจั๊บสุข
+(Chinese noodles soup with tofu and mushroom stew)",,119,Vegan
+wraptor,Quesadilla smoky beef,,240.00,
+yayoi,"เซตสเต็กหมูกระทะร้อน
+(Diced Pork Steak on Hot Plate Set)",,249,rice
+yayoi,"เซตหมูชุปแป้งทอดราดซอสมิโซะ
+(Simmered Pork Cutlet in Miso Sauce Set)",,235,rice
+yayoi,"เซตชีสเบอร์เกอร์หมูชุปแป้งทอด
+(Fried Pork Cutlet with Cheese Filling Set)",,245,rice
+yayoi,"เซตปลาซาบะย่างเกลือกระทะร้อน
+(Grilled Mackerel with Salt Set)",,249,rice
+yayoi,"ข้าวราดหน้าหมูชุปแป้งทอด
+(Rice Topped with Fried Pork Cutlet and Egg)",,229,rice
+yayoi,"ข้าวราดหน้าแกงกะหรี่หมูชีสเบอร์เกอร์
+(Japanese Curry, Rice, and Fried Pork Cutlet with Cheese Filling)",,255,rice
+yayoi,"ราเม็งแชมป์เปี้ยน
+(Yayoi Ramen Champion)",,199,noodle
+yayoi,"เซตปลาซาบะย่างซีอิ๋วกระทะร้อน
+(Grilled Mackerel with Teriyaki Sauce Set)",,249,rice
+madcow,cheese burger pork,,180,Burger
+madcow,cheese burger beef,,180,Burger
+yumcha,"บะหมี่เกี๊ยวกุ้ง
+(Pork & Shrimp Wontons, Egg Noodles, Kales, Fried Egg)",,195,noodle
+yumcha,"ข้าวไก่ทอดพริกเกลือ
+(Salt & Pepper Fried Chicken, Garlic Sauce)",,195,rice
+ครัวกลิ่นกะทะ,"ข้าวด้งเนื้อสเต๊กกลิ่นกะทะ + ไข่ดอกซีอิ๋ว
+(Gyu Don)",,250,rice
+ครัวกลิ่นกะทะ,"ข้าวผัดไข่กลิ่นกะทะ + เนื้อสเต็กย่าง
+(Egg Fried Rice)",,190,rice
+ครัวกลิ่นกะทะ,"เนื้อสับผัดกระเพรากลิ่นกะทะราดข้าว
+(Rice topped with stir-fried basil minced Wagyu)",,120,rice
+ครัวกลิ่นกะทะ,"ข้าวหมูกรอบคั่วพริกเกลือกลิ่นกะทะ
+(Rice topped with stir-fried vegan crispy pork with salt and chili)",,170,rice
+coco ichobanya,Pork Cutlet Omelet,,265,rice
+coco ichobanya,Hamburg with Cheese curry,,295,rice
+LELE by mai anh,"เฝอเนื้อ 
+(Pho noodles with sliced beef)",,229,noodle
+LELE by mai anh,"ก๋วยจั๊บญวน
+(Guay Jub Yuan)",,179,noodle
+LELE by mai anh,"ก๋วยเตี๋ยวหลอด
+(Rice noodle roll)",,170,noodle
+LELE by mai anh,"แหนมเนืองห่อสำเร็จ
+(Nem Nuong)",,195,Roll
+Pizza company,"ชีสซี่พัฟ กุ้งและเบคอน
+(Shrimp bacon cheesy puff)",,169,Pizza
+Pizza company,"พิซซ่าพัฟ ทริปเปิ้ล มีท
+(Pizza Puff Triple Meat)",,169,Pizza
+ซ้ง,"ข้าวหน้าเป็ดพะโล้
+(Stewed Duck on Rice)",,90,rice
+ซ้ง,"แขนงหมูกรอบราดข้าว
+(Stir-Fried Baby Cabbage with Crispy Pork on Rice)",,80,rice
+ซ้ง,"ข้าวหน้าไข่ยู่ยี่กุ้ง
+(Thai Scrambled eggs with shrimp)",,130,rice
+โรงสีโภชนา,"ข้าวกุ้งผัดพริกขี้หนู
+(Rice topped with stir-fried shrimp with bird chili and garlic)",,240,rice
+โรงสีโภชนา,"โกยซีหมี่
+(Chinese style deep fried egg noodles in thick sauce)",,215,Noodle
+coffee bean by dao,"ข้าวซอยไก่
+(Northern Thai Curry Noodle Soup w. Chicken)",,250,Noodle
+coffee bean by dao,"ก๋วยเตี๋ยวลุยสวน
+(Wrapped Noodle Pork Shrimp & Fresh Herbs)",,200,Noodle
+coffee bean by dao,"ข้าวคลุกกะปิ
+(Shrimp Paste Fried Rice W. Sweet Pork)",,240,Rice
+FamTime,"เฟตตูชินีคาโบนาร่า
+(Fettuccine Cabonara)",,215,Noodle
+FamTime,"มักกะโรนีอบชีส
+(Mac and Cheese)",,198,Noodle
+FamTime,ข้าวผัดสเต็กหมูน้ำจิ้มแจ่ว,,149,rice
+FamTime,"ข้าวผัดกะเพราแซลมอน
+(Kra Pao Salmon)",,215,rice
+FamTime,"ข้าวผัดกะเพราสเต็กหมู
+(Kra Pao Pork)",,155,rice
+FamTime,"สเต็กหมูพริกไทยดำ 
+(Pepper Pork Steak)",,225,Stake
+FamTime,"สเต็กหมูซอสบาร์บีคิว+มันเวจอบชีส 
+(Barbecue Pork Steak with Wedges Potato)",,235,Stake
+FamTime,"เฟตตูชินีผัดซอสพริกศรีราชาไก่ย่าง 
+(Fettuccine Grilled Chicken Sriracha Sauce)",,178,Noodle
+FamTime,"สลัดแซลมอนกริลล์น้ำสลัดบัลซามิค 
+(Grilled Salmon Salad with Balsamic Dressing)",,215,salad
+FamTime,"เคซาดิลญ่าผักโขมเบคอน 
+(Spinach Quesadilla)",,178,
+FamTime,"สลัดผักย่าง
+(Roasted Veggie with Balsamic Dressing)",,178,salad
+FamTime,"ซีซ่าสลัด 
+(Caesar Salad)",,169,salad
+Baan Ying,"ข้าวไข่ข้นไก่ทอดซอสไห่หนาน
+(Thai Scrambled eggs with fried chicken)",,175,rice
+Baan Ying,"ข้าว + กุ้งคั่วพริก
+(Rice + Signature Stire-Fried Shrimp with Chili & Garlic)",,195,rice
+Baan Ying,"ข้าวผัดปลาทูกากหมู
+(Mckerel Fried Rice with Pork Rind)",,180,rice
+Baan Ying,"ข้าว+กะเพรากุ้ง
+(Rice + Stir-Fried Shrimp with Basil & Chili (Kra Prao Shrimp))",,190,rice
+Baan Ying,"ข้าวผัดสัปปะรด
+(Pinneapple Fried Rice with Pinneapple, Shrimp, Cashew Nut & Topped Pork Floss)",,255,rice
+Baan Ying,"ข้าวผัดเนื้อเค็ม
+(Fried rice with salted beef)",,215,rice
+mister joe,"ก๋วยจั๊บน้ำใสใส่ทุกอย่าง
+(Rolled rice paper noodle with crispy pork, mix pork)",,95,Noodle
+mister joe,"หมูกรอบ
+(Crispy Pork)",,95,
+Mhan,"หมี่หมานเสือร้องไห้
+(Mhan Noodle with Brisket beef)",,199,Noodle
+Mhan,"ข้าวหน้าเนื้อเสือร้องไห้ 
+(stir fried brisket beef japanese style)",,175,
+Mhan,"ข้าวหน้าหมูสามชั้นซอสหมาน 🌶️ (สไปซี่) 
+(stir fried pork belly with spicy sauce)
+",,149,
+Mhan,"หมี่หมานซีฟู๊ด
+(Mhan noodle with Seafood)",,199,Noodle
+omu,"(เนื้อ) ข้าวห่อไข่หน้าเบอร์เกอร์ราดเดมิกลาส
+(Demiglace sauce omurice with burger (beef))",,256,rice
+omu,"(หมู) ข้าวห่อไข่หน้าเบอร์เกอร์ราดเดมิกลาส
+(Demiglace sauce omurice with burger (Pork))",,235,
+omu,"ข้าวห่อไข่หน้ากุ้งทอดราดซอสแกงกะหรี่
+(Curry sauce omurice with fried shrimps)",,246,rice
+omu,"ข้าวห่อไข่หน้าหมูทอดราดซอสแกงกะหรี่
+(Curry sauce omurice with cutlets)",,246,rice
+omu,"ข้าวห่อไข่หน้าครีมโคโรเกะราดครีมซอส
+(Cream sauce omurice with cream croquette)",,256,rice
+Jones' salad,"สลัดอกเป็ดรมควัน
+(Smoked Duck Salad with Japanese Soy Sauce Dressing)",,182,salad
+Jones' salad,"สปาเกตตี้ผัดพริก เบคอน และไข่กุ้ง
+(Spicy Spaghetti with Chili and Bacon Ebiko)",,,
+Jones' salad,"สปาเก็ตตี้คาโบนาร่าเบคอน
+(Bacon Spaghetti Carbonara with Onsen Egg)",,209,
+Jones' salad,"สปาเก็ตตี้ เบคอนโรเซ่ 
+(Bacon Rose Spaghetti)",,209,
+Jones' salad,"สปาเก็ตตี้ ผักโขมและเห็ด
+(Creamy white sauce spaghetti with spinach and mushroom)",,187,
+Jones' salad,"ข้าวหน้าอกไก่ไวกิ้ง
+(Viking Chicken Breast Poke with Hot Mayo Sauce)",,187,rice
+Ohkajhu,"สลัดข้าวยำและควินัว
+(Spicy rice salad)",,218,salad
+Ohkajhu,"ข้าวผัดน้ำพริกหนุ่มหมูทอดงาขาว
+(Green chili paste rice serve with fried pork)",,217,rice
+Ohkajhu,"ข้าวซี่โครงหมูอบสับปะรด
+(Pineapple glazed roasted pork spare rib with rice)",,194,rice
+Ohkajhu,"ข้าวไข่เจียวแซลมอนสมุนไพรไร้น้ำมัน
+(Rice with fried egg and salmon oil free)",,229,rice
+Ohkajhu,"สปาเกตตี้ทูน่าต้มยำแห้ง
+(Spicy tuna spaghetti)",,264,noodle
+Ohkajhu,"ข้าวคอหมูย่างคั่วกระเทียมพริกเกลือ
+(Green chili paste rice serve with fried pork)",,205,rice
+Thong smith,"E3 น้ำตกหมูตุ๋น
+(Braised pork, pork ball and sliced pork)",,179,noodle
+Thong smith,"D3 น้ำตกเนื้อตุ๋น
+(Braised shan, tendon, beef ball and sliced beef)",,199,noodle
+Pla see som,"แซลมอน บิบิมบับ
+(Salmon Bibimbap)",,249,rice
+Pla see som,"แซลมอน ยำไข่นัวแดง
+(Spicy Salmon)",,249,yum
+Pla see som,"แซลมอนโรลเบิร์นไฟซฮสสไปซี่
+(Salmon spicy roll)",,249,sushi
+Pla see som,"ปลาสีส้มข้าวไข่ดองซีอิ๋ว
+(Salmon Rice with Preserved Egg in Soy Sauce)",,249,rice
+Pla see som,"แซลมอน ยำตะไคร้พริกเผา
+(Yum lemongrass salmon)",,249,yum
+song fa,"ข้าวเปล่า
+(rice)",,30,rice
+song fa,"ข้าวต้มหมูซงฟา
+(Boiled rice with minced pork)",,240,
+song fa,"ซุปซี่โครงหมู (เล็ก)
+(Loin ribs soup (small))",,265,soup
+gugu,White Onion Wing,,189,chicken
+gugu,Yang - Nyeom Wing,,179,chicken
+Kobe Steakhouse,Pork Steak set,,289,steak
+Kobe Steakhouse,Beef steak Set,,299,steak
+gochujang,"ข้าวหน้าหมูบูลโกกิ
+(Bulgogi don)",,165,rice
+gochujang,"ซุปกิมจิ
+(Kimchi soup)",,129,soup
+hoong,"ข้าวสวยคอหมูย่าง
+(Grilled pork neck steamed rice)",,189,rice
+hoong,"ข้าวสวยไก่คอมโบ (ซูวี + ทอด)
+(combo chicken steamed rice)",,169,rice
+hoong,"ข้าวมันไก่ต้ม
+(Chicken Rice)",,179,rice
+hoong,"ข้าวมันไก่ทอด
+(Fried chicken rice)",,179,rice
+Ekkamai Macchiato,"หมูสับหนำเลียบ
+(Minced Pork with Chinese Kale)",,220,rice
+Ekkamai Macchiato,"ข้าวคอหมูทอดน้ำปลาไข่ดาว
+(Fried Pork Neck with Fish Sauce and sunny side up on Rice)",,220,rice
+Ekkamai Macchiato,"ข้าวกุ้งคั่วพริกเกลือ
+(Shrimp Fried with Salt, Chili and sunny side up on Rice)",,370,rice
+Ekkamai Macchiato,"ข้าวกะเพราหมูสับไข่ดาว
+(Rice topped with stir-fried minced pork and basil + sunny side up)",,205,rice
+S&P,"ข้าวหน้าไก่ย่างเทอริยากิ
+(Chicken Teriyaki on rice)",,165,rice
+S&P,"ข้าวคลุกกะปิ
+(Shrimp Paste Fried Rice)",,185,rice
+S&P,"ข้าวกุ้งผัดพริกขี้หนูไข่นุ่ม
+(Soft omelet on rice with garlic & chilli prawns)",,175,rice
+S&P,"ข้าวผัดปู
+(Crab fried rice)",,178,rice
+S&P,"ข้าวซอยน่องไก่
+(Nothern style curry noodle w/ chicken drumstick)",,165,noodle
+S&P,"ข้าวไก่อบ
+(Rice w/ Roast chicken)",,205,rice
+S&P,"ชุดข้าวแกงเขียวหวาน
+(soft omelet w/chicken green curry + shrimp roe dimsum)",,215,rice
+easy buddy,"ข้าวราดกระเทียมพริกไทยกุ้ง
+(Stir-fried prawns with garlic & pepper)",,288,"rice, shrimp"
+easy buddy,"ข้าวราดกะเพราหมูกรอบ
+(Stir-fried crispy pork with holy basil)",,288,"rice, pork"
+easy buddy,"ข้าวราดกะเพราเนื้อ USDA สับ
+(Stir-fried minced USDA beef with holy)",,224,"rice, beef"
+rosaniyom,"ข้าวคลุกกะปิ
+(Thai shrimp paste fried rice with sweet pork and assorted condiments)",,179,
+rosaniyom,"ไส้อั่วลำปาง & ข้าวเหนียวนุ่ม
+(Northern Thai ausage & sticky rice)",,165,
+rosaniyom,"ข้าวราดกะเพราหมูสับ ไม่รวมไข่ดาว
+(Rice topped with stir-fried minced pork and basil)",,169,
+rosaniyom,"ข้าวราดกะเพราหมูกรอบ ไม่รวมไข่ดาว
+(Rice topped with stir-fried crispy pork and basil)",,195,
+rosaniyom,"ข้าวราดกะเพราทะเลรวม ไม่รวมไข่ดาว
+(Rice topped with stir-fried seafood and basil)",,250,
+rosaniyom,"ข้าวราดกะเพราเนื้อนุ่ม ราคาไม่รวมไข่ดาว
+(Rice topped with stir-fried tendered beef and basil)",,220,
+rosaniyom,"ข้าวราดกะเพราเนื้อวากิวสับ ราคาไม่รวมไข่ดาว
+(Rice topped with stir-fried minced Wagyu and basil)",,269,
+rosaniyom,"ข้าวราดกะเพรากุ้งสับ
+(Rice topped with stir-fried minced shrimp and basil)",,179,
+rosaniyom,"ก๋วยเตี๋ยวต้มยำสุโขทัยไข่มะตูม
+(Sukhothai noodles with soft-boiled egg in spicy soup)",,169,
+rosaniyom,"ก๋วยจั๊บไทย (น้ำข้น)
+(Rolled rice paper noodle with crispy pork, mix pork entrails and egg in brown soup)",,179,
+rosaniyom,"ข้าวซอยไก่เวียงพิงค์
+Northern style egg noodles with chicken curry (Kao-soi)",,189,
+rosaniyom,"บะหมี่เกี๊ยว
+(Egg noodles with dumpling)",,169,
+rosaniyom,"ยำขนมจีนปลาทูหมูยอ
+(Spicy fermented rice noodle salad with fried mackerel and Vietnamese sausage)",,189,
+rosaniyom,"ก๋วยเตี๋ยวคั่วไก่
+(Stir-fried wide rice noodles with chicken, egg and crisp squid pickled)",,169,
+rosaniyom,"เส้นหมี่ผัดผักกระเฉด
+(Stir-fried rice vermicelli and water mimosa)",,220,
+rosaniyom,"เส้นใหญ่ผัดขี้เมา
+(Spicy Stir-fried wide rice noodles)",,169,
+rosaniyom,"ขนมจีนเวียดนามทรงเครื่อง
+(Fermented rice noodles and mixed vegetable with sweet & sour sauce)",,169,
+rosaniyom,"ขนมจีน & แกงเขียวหวาน
+(Green curry)",,169,
+rosaniyom,"ขนมจีนน้ำยาปักษ์ใต้ & ผักสด
+(Fermented noodles with Southern fish curry suace & vegetables)",,179,
+rosaniyom,"ข้าว & พะแนง
+(Red curry served with rice)",,179,
+rosaniyom,"ข้าวหมูแดง หมูกรอบ
+(Rice topped with BBQ pork and crispy pork)",,169,
+rosaniyom,"ข้าว & น่องไก่ตุ๋นคาราเมล ไข่พะโล้
+(Steamed chicken in caramel soup and seasoned hard boiled egg served with rice)",,189,
+rosaniyom,"ข้าว & ขาหมู ไข่พะโล้
+(Pork knuckle stew and seasoned hard boiled egg served with rice)",,195,
+rosaniyom,"ข้าวราดผัดคะน้าหมูกรอบ
+(Rice topped with stir-fried crispy pork and kale)",,189,
+rosaniyom,"ข้าวหมูทอดกระเทียม
+(Rice topped with fried pork with garlic)",,169,
+rosaniyom,"ข้าว & น้ำพริกกะปิปลาทูทอด
+(Rice with spicy shrimp paste served with fried mackerel and vegetables)",,185,
+Salad Factory,"BLT Wrap
+(Bacon / Cheese / Egg / Tomato / Mixed Salad / Mayonnaise)",,169,
+Salad Factory,"Teriyaki Salmon kirimi Salad Wrap
+(Salmon / Seaweed Salad / Pineapple / Tomato / Onion / Carrot / Mixed Salad)",,229,
+Salad Factory,"Japanese-Style Grilled Pork Salad with Sesame Dressing
+",,170,
+Salad Factory,Grilled pork with Crispy Herb Garden Salad and Sweet Basil Dressing,,180,
+Salad Factory,Japanese-Style Deep Fried Pork Salad with Sesame Dressing,,170,
+Salad Factory,Japanese-Style Grilled Chicken Breast Salad with Sesame Dressing,,160,
+Salad Factory,"""The Factory"" Shrimp and Chicken Greek Salad with Red Wine Dressing",,200,
+Salad Factory,Garden Salad with Crispy Shrimp and Cream Dressing,,260,
+Salad Factory,The Factory Healthy Salad with a Choice of Sweet Basil / Japaness Shoyu Dressing,,155,
+Salad Factory,Quinoa Salad with Grilled Chicken Breast and Sesame Dressing,,215,
+Salad Factory,Quinoa Salad with Grilled Chicken Breast and Spicy Holy Basil,,215,
+Salad Factory,Rocket Salad with Smoked Duck Breast and Balsamic,,240,
+Salad Factory,Rocket Salad with Mixed Mushrooms and Balsamic,,150,
+Salad Factory,Rocket Salad with Stir-fried Korean Pork and Balsamic,,180,

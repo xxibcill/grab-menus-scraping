@@ -1,8 +1,13 @@
 import puppeteer from 'puppeteer'
 import fs from 'fs'
-import { urls } from './constant.js'
+
+const links = JSON.parse(fs.readFileSync('./grablink.json'))
 
 let page
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms))
+}
 
 const autoScroll = async () => {
   await page.evaluate(async () => {
@@ -18,7 +23,7 @@ const autoScroll = async () => {
           clearInterval(timer)
           resolve()
         }
-      }, 1000)
+      }, 3000)
     })
   })
 }
@@ -32,7 +37,7 @@ const getShopName = async () => {
   console.log(shopName)
 }
 
-const getAllMenu = async () => {
+const getAllMenu = async (restaurantName) => {
   const root = await page.$(`[class*='contentWrapper']`)
 
   await page.waitForSelector(`[class*='name']`)
@@ -41,6 +46,8 @@ const getAllMenu = async () => {
 
   await autoScroll()
 
+  await sleep(5000)
+
   const menus = await page.evaluate((el) => {
     const temp = []
     let menuItems = Array.from(el.querySelectorAll(`[class*='menuItem'].ant-col-md-24`))
@@ -48,13 +55,13 @@ const getAllMenu = async () => {
     menuItems.forEach((menuItem) => {
       const title = menuItem.querySelector(`[class*='itemNameTitle']`).textContent
       const description = menuItem.querySelector(`[class*='itemDescription']`)
-      const imageSrc = menuItem.querySelector(`[class*='menuItemPhoto'] img`).src
+      const imageSrc = menuItem.querySelector(`[class*='menuItemPhoto'] img`)
       const price = menuItem.querySelector(`[class*='discountedPrice']`).textContent
 
       temp.push({
         title,
         description: description ? description.textContent : '',
-        imageSrc,
+        imageSrc: imageSrc ? imageSrc.src : '',
         price,
       })
     })
@@ -63,10 +70,10 @@ const getAllMenu = async () => {
   }, root)
 
   console.log(menus.length)
-  fs.writeFileSync('data.json', JSON.stringify(menus))
+  fs.writeFileSync(`menus/${restaurantName}.json`, JSON.stringify(menus))
 }
 
-;(async () => {
+const scrap = async (link) => {
   const browser = await puppeteer.launch({
     headless: false,
     ignoreHTTPSErrors: true,
@@ -78,9 +85,22 @@ const getAllMenu = async () => {
   })
 
   page = await browser.newPage()
-  await page.goto(urls[0])
+  await page.goto(link.url)
 
-  await getAllMenu()
+  await getAllMenu(link.name)
 
   await browser.close()
+}
+
+;(async () => {
+  for (let index = 0; index < links.length; ) {
+    const link = links[index]
+    console.log('scrap index : ', index)
+    try {
+      await scrap(link)
+      index = index + 1
+    } catch (error) {
+      console.log(error)
+    }
+  }
 })()

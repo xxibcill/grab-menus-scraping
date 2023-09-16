@@ -5,6 +5,7 @@
   "type": "module",
   "license": "MIT",
   "dependencies": {
+    "csv-parser": "^3.0.0",
     "puppeteer": "^21.1.1"
   }
 }
